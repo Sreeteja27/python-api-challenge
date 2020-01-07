@@ -1,0 +1,7 @@
+Python-APIs-Homework
+
+Three observable trends:
+
+1.Temperatures are higher at latitudes closer to the equator. Temperatures are lower towards the earth's poles.
+2.The temperature does increase significantly between -20 degrees and approx latitude 25 degrees.
+3.The datasets for cloudiness and wind speed show some outliers, but overall don't seem to have any correlation to latitude, or proximity to the equator.
